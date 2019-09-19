@@ -14,6 +14,7 @@
 		2B6F325022A115C300A50CFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6F324E22A115C300A50CFB /* LaunchScreen.storyboard */; };
 		2B6F325B22A115C300A50CFB /* Collection_ViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6F325A22A115C300A50CFB /* Collection_ViewTests.swift */; };
 		2B6F326622A115C400A50CFB /* Collection_ViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6F326522A115C400A50CFB /* Collection_ViewUITests.swift */; };
+		2B6F327422A116F100A50CFB /* cOllectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6F327322A116F100A50CFB /* cOllectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2B6F326122A115C400A50CFB /* Collection ViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Collection ViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B6F326522A115C400A50CFB /* Collection_ViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collection_ViewUITests.swift; sourceTree = "<group>"; };
 		2B6F326722A115C400A50CFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B6F327322A116F100A50CFB /* cOllectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cOllectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				2B6F324522A115C200A50CFB /* AppDelegate.swift */,
 				2B6F324722A115C200A50CFB /* ViewController.swift */,
 				2B6F324922A115C200A50CFB /* Main.storyboard */,
+				2B6F327322A116F100A50CFB /* cOllectionViewCell.swift */,
 				2B6F324C22A115C300A50CFB /* Assets.xcassets */,
 				2B6F324E22A115C300A50CFB /* LaunchScreen.storyboard */,
 				2B6F325122A115C300A50CFB /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				2B6F324822A115C200A50CFB /* ViewController.swift in Sources */,
 				2B6F324622A115C200A50CFB /* AppDelegate.swift in Sources */,
+				2B6F327422A116F100A50CFB /* cOllectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
